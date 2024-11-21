@@ -32,7 +32,7 @@
 
 Создадим файл конфигурации файла Doxygen в папке с проектом, в соответствии с рисунком 1.
 
-![Рисунок 1 – Создание файла конфигурации](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Рисунок 1 – Создание файла конфигурации](https://github.com/chorselty/lab4/raw/main/1.png)
 
 Пропишем необходимые параметры в файле конфигурации:
 
@@ -51,15 +51,15 @@ EXTRACT_ALL     |       YES       | включать в документацию
 
 Создадим документацию в соответствии с рисунком 2.
  
-![Рисунок 2 – Создание документации](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Рисунок 2 – Создание документации](https://github.com/chorselty/lab4/raw/main/2.png)
 
 Созданная документация представлена в соответствии с рисунками 3-5.
  
-![Рисунок 3 – Главная страница документации](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Рисунок 3 – Главная страница документации](https://github.com/chorselty/lab4/raw/main/3.png)
  
-![Рисунок 4 - Документация](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Рисунок 4 - Документация](https://github.com/chorselty/lab4/raw/main/4.png)
  
-![Рисунок 5 – Методы и переменные программы](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Рисунок 5 – Методы и переменные программы](https://github.com/chorselty/lab4/raw/main/5.png)
 
 ### Вывод: 
 
